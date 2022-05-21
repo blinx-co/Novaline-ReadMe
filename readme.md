@@ -1,11 +1,11 @@
 # Novaline Support
 
 ## Disclaimer:
-This readme is not supposed to help you fix every error you get, this just lists the most common and ways to fix it.
+This readme is **not** supposed to help you fix every error you get, this just lists the most common and ways to fix it.
 It is really helpful if your navite language isn't English, please use a translator; it really helps us.
 
 ## General Info:
-Do NOT download any version of Novaline not from [wearedevs.net](https://wearedevs.net). The only and official download is on WeAreDevs.net.
+Do **NOT** download any version of Novaline **not** from [wearedevs.net](https://wearedevs.net). The only and **official** download is on WeAreDevs.net.
 
 You can download Novaline here: [Download](https://wearedevs.net/d/Novaline)
 
