@@ -2,6 +2,7 @@
 
 ## Disclaimer:
 This readme is not supposed to help you fix every error you get, this just lists the most common and ways to fix it.
+It is really helpful if you're navite language isn't English, please use a translator; it really helps us.
 
 ## General Info:
 Do NOT download any version of Novaline not from [wearedevs.net](https://wearedevs.net). The only and official download is on WeAreDevs.net.
@@ -32,7 +33,14 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 ## Unknown / Discovered Problems:
 1. `Novaline Closing and Opening Discord`: This error has been dealt with but in many other ways. The most common way to fix this error is by restarting your computer and reinstalling Novaline. This usually works but open a ticket for further aid.
 
+
+
+2. `Novaline Crashing When Pressing Anything`: This error has be dealt with similarly to `Novaline Closing and Opening Discord`, just follow the same steps and the issue should be resolved
+
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 
+
 Document Created By blinx
+
+Last Updated: 19:09 | 21/05/2022 | GMT +1
