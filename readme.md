@@ -39,7 +39,7 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 
 
 
-3. `Could not establish relationship for SSL/TLS secure channel`: This error occurs when your `Firewall` blocks the connection. Turn off your `Firewall` or your real time protection is on.
+3. `Could not establish relationship for SSL/TLS secure channel`: This error occurs when your `Firewall` blocks the connection. Turn off your `Firewall` or your real time protection is on. For a tutorial go to [here](https://www.linksys.com/us/support-article?articleNum=143654)
 
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
