@@ -2,7 +2,7 @@
 
 ## Disclaimer:
 This readme is not supposed to help you fix every error you get, this just lists the most common and ways to fix it.
-It is really helpful if you're navite language isn't English, please use a translator; it really helps us.
+It is really helpful if your navite language isn't English, please use a translator; it really helps us.
 
 ## General Info:
 Do NOT download any version of Novaline not from [wearedevs.net](https://wearedevs.net). The only and official download is on WeAreDevs.net.
@@ -36,6 +36,10 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 
 
 2. `Novaline Crashing When Pressing Anything`: This error has be dealt with similarly to `Novaline Closing and Opening Discord`, just follow the same steps and the issue should be resolved
+
+
+
+3. `Could not establish relationship for SSL/TLS secure channel`: This error is occurs when your `Firewall` blocks the connection. Turn off your `Firewall` or your real time protection is on.
 
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
